@@ -16,7 +16,7 @@ path = "../../safe_encoding_rs_mem"
 git = "https://github.com/rust-fuzz/libfuzzer-sys.git"
 
 # Prevent this from interfering with workspaces
-[workspace]
+#[workspace]
 members = ["."]
 
 [features]

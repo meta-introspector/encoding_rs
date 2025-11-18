@@ -8,3 +8,4 @@ fuzz/target
 fuzz/Cargo.lock
 fuzz/artifacts
 fuzz/corpus
+process-repo.log
